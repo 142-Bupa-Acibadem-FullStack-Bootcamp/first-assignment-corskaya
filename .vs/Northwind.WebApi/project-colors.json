@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ff92cc7-6fc7-4de3-8e47-a231b83f45e7": {
+      "ProjectGuid": "6ff92cc7-6fc7-4de3-8e47-a231b83f45e7",
+      "DisplayName": "Northwind.Bll",
+      "ColorIndex": 0
+    },
+    "bad32681-843e-40ff-b13d-2708b2e1f544": {
+      "ProjectGuid": "bad32681-843e-40ff-b13d-2708b2e1f544",
+      "DisplayName": "Northwind.Dal",
+      "ColorIndex": 1
+    },
+    "52b169ee-c3e5-43e5-a890-cab300fa433b": {
+      "ProjectGuid": "52b169ee-c3e5-43e5-a890-cab300fa433b",
+      "DisplayName": "Northwind.Entity",
+      "ColorIndex": 2
+    },
+    "84190110-4847-408e-b3e9-59da36e067ab": {
+      "ProjectGuid": "84190110-4847-408e-b3e9-59da36e067ab",
+      "DisplayName": "Northwind.WebApi",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "64f47c3d-720e-4208-992a-48864f4d11d8": {
+      "ProjectGuid": "64f47c3d-720e-4208-992a-48864f4d11d8",
+      "DisplayName": "Northwind.Interface",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

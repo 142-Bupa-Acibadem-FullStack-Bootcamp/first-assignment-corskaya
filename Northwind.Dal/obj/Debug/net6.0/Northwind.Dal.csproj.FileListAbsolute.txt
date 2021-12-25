@@ -1,0 +1,15 @@
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\bin\Debug\net6.0\Northwind.Dal.deps.json
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\bin\Debug\net6.0\Northwind.Dal.dll
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\bin\Debug\net6.0\ref\Northwind.Dal.dll
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\bin\Debug\net6.0\Northwind.Dal.pdb
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\obj\Debug\net6.0\Northwind.Dal.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\obj\Debug\net6.0\Northwind.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\obj\Debug\net6.0\Northwind.Dal.AssemblyInfoInputs.cache
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\obj\Debug\net6.0\Northwind.Dal.AssemblyInfo.cs
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\obj\Debug\net6.0\Northwind.Dal.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\obj\Debug\net6.0\Northwind.Dal.dll
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\obj\Debug\net6.0\ref\Northwind.Dal.dll
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\obj\Debug\net6.0\Northwind.Dal.pdb
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\bin\Debug\net6.0\Northwind.Entity.dll
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\bin\Debug\net6.0\Northwind.Entity.pdb
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Dal\obj\Debug\net6.0\Northwind.Dal.csproj.CopyComplete

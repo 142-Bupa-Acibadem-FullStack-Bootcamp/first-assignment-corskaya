@@ -1,0 +1,14 @@
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\bin\Debug\net6.0\Northwind.Entity.deps.json
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\bin\Debug\net6.0\Northwind.Entity.runtimeconfig.json
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\bin\Debug\net6.0\Northwind.Entity.dll
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\bin\Debug\net6.0\ref\Northwind.Entity.dll
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\bin\Debug\net6.0\Northwind.Entity.pdb
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\obj\Debug\net6.0\Northwind.Entity.csproj.AssemblyReference.cache
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\obj\Debug\net6.0\Northwind.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\obj\Debug\net6.0\Northwind.Entity.AssemblyInfoInputs.cache
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\obj\Debug\net6.0\Northwind.Entity.AssemblyInfo.cs
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\obj\Debug\net6.0\Northwind.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\obj\Debug\net6.0\Northwind.Entity.dll
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\obj\Debug\net6.0\ref\Northwind.Entity.dll
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\obj\Debug\net6.0\Northwind.Entity.pdb
+C:\Users\ogulc\source\repos\Northwind.WebApi\Northwind.Entity\obj\Debug\net6.0\Northwind.Entity.genruntimeconfig.cache
